@@ -7,7 +7,7 @@
 - Mohammad Ifaizul Hasan (in short call: Hasan) @IzuruSakamaki https://github.com/IzuruSakamaki as Backend
 - Dwicky Darmawan (in short call: Mawan) @dwickydarmawan22 https://github.com/dwickydarmawan22 as Frontend
 - Izza Saputra (in short call: Izza) @izzasaputra https://github.com/izzasaputra as Frontend
-- Agus Setiawan Popalia (in short call: Satya) @satyasp0 https://github.com/satyasp0
+- Agus Setiawan Popalia (in short call: Satya) @satyasp0 https://github.com/satyasp0 as Backend
 
 # installation
 ## Depedencies
