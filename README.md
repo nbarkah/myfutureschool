@@ -1,6 +1,6 @@
 # myfutureschool
-this enterprise website for school
-this repo Backend Only
+- this enterprise website for school
+- this repo Backend Only
 
 # Full team with :
 - Nurhai Barkah (in short call: Barkah) @nbarkah https://github.com/nbarkah as Backend
