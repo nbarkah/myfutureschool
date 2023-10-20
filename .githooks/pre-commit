@@ -1,0 +1,13 @@
+#!/bin/sh
+
+branch="$(git rev-parse --abbrev-ref HEAD)"
+valid_branch="^(feature\/[a-zA-Z0-9._-]+|hotfix\/[a-zA-Z0-9._-]+|main)+$"
+message="The branch name is incorrect. Branch name should be of the format feature/ or release/ or hotfix/ . Please rename your branch."
+
+if [[ ! $branch =~ $valid_branch ]]
+then
+echo "$message"
+exit 1
+fi
+
+exit 0

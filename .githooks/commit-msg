@@ -1,0 +1,11 @@
+#!/bin/sh
+commit_regex='((ver):[0-9]+[.][0-9]+[.][0-9]+\s(tkt):[a-zA-Z0-9\s.""-]+\s(msg):[a-zA-Z0-9\s. - ""]+)'
+error_msg="You forgot the format again!
+Please use the following pattern:
+ver:x.y.z tkt:Number msg:CommitMessage
+Remember about space char after each key:pair!"
+
+if ! grep -iqE "$commit_regex" "$1"; then
+echo "$error_msg" >&2
+exit 1
+fi
