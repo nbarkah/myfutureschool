@@ -1,5 +1,12 @@
 # myfutureschool
 this enterprise website for school
+this repo Backend Only
+
+full team with :
+Nurhai Barkah (in short call: Barkah) @nbarkah https://github.com/nbarkah as Backend
+Mohammad Ifaizul Hasan (in short call: Hasan) @IzuruSakamaki https://github.com/IzuruSakamaki as Backend
+Dwicky Darmawan (in short call: Mawan) @dwickydarmawan22 https://github.com/dwickydarmawan22 as Frontend
+Izza Saputra (in short call: Izza) @izzasaputra https://github.com/izzasaputra as Frontend
 
 # installation
 ## Depedencies
